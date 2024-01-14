@@ -1,1 +1,1 @@
-This mod adjusts screen effects in the Ready or Not so that they're more realistic, learn how to extract, modify and repackage the game files [here](https://unofficial-modding-guide.com/posts/thebasics/).
+This mod adjusts screen effects in Ready or Not so that they're more realistic, learn how to extract, modify and repackage the game files [here](https://unofficial-modding-guide.com/posts/thebasics/).
