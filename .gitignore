@@ -1,3 +1,4 @@
 # Ignore compressed files
 *.pak
 *.zip
+*.bak
