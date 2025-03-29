@@ -1,4 +1,4 @@
-This mod adjusts screen effects in Ready or Not so that they're more realistic, learn how to extract, modify and repackage the game files [here](https://unofficial-modding-guide.com/posts/thebasics/).
+This mod adjusts screen effects in Ready or Not so that they're more realistic. If you wish to edit and package these files you will need [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS/tree/main) to generate ==.usmap== mapping files for [UAssetGUI](https://github.com/atenfyr/UAssetGUI) to view the files properly and a copy of [Unreal Engine 5.3](https://github.com/EpicGames/UnrealEngine/tree/5.3) to compress the files into ==.pak== format via UnrealPak.
 
 **What this mod does**
 
