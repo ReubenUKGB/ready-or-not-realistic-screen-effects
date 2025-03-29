@@ -14,7 +14,7 @@ This mod adjusts certain elements in Ready or Not so that they're more realistic
 - Disables chromatic abberation, blur, screen shaking and tunnel vision effects when suppressed
 - Disables field of view changes when moving, supressed, hit, firing a weapon and when any equipment is used
 - Disables vertical climb due to recoil when firing weapons
-- Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm (this may need adjustments)
+- Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm
 - Significantly reduces the duration of the white flash effect by explosions and the stun effect by explosions
 
 <br/>
