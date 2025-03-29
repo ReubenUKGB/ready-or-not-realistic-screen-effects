@@ -16,6 +16,7 @@ This mod adjusts certain elements in Ready or Not so that they're more realistic
 - Disables vertical climb due to recoil when firing weapons
 - Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm
 - Significantly reduces the duration of the white flash effect by explosions and the stun effect by explosions
+- Weapons are named according to their real world counterparts
 
 <br/>
 
