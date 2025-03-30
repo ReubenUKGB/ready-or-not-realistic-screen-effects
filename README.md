@@ -34,12 +34,6 @@ This mod adjusts certain elements in Ready or Not so that they're more realistic
 
 <br/>
 
-**Todo**
-
-- Add appropriate effects for CS Gas and Pepperspray
-
-<br/>
-
 **F.A.Q**
 
 **Q:** Does this mod affect in-game cosmetic unlocks and achievement unlocks?
