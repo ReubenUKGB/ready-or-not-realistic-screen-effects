@@ -34,12 +34,6 @@ This mod adjusts certain elements in Ready or Not so that they're more realistic
 
 <br/>
 
-**Todo**
-
-- Add appropriate effects for CS Gas and Pepperspray
-
-<br/>
-
 **F.A.Q**
 
 **Q:** Does this mod affect in-game cosmetic unlocks and achievement unlocks?
@@ -52,7 +46,7 @@ This mod adjusts certain elements in Ready or Not so that they're more realistic
 
 **Q:** Is this mod compatible with other mods?
 
-**A:** This mod is compatible with any mod that doesn't modify post-processing assets, camera assets, camera blueprints and weapon blueprints.
+**A:** This mod will override any mod that modifies post-processing assets, camera assets, camera blueprints and weapon blueprints, depending on the load order.
 
 **NOTE:**
 <br/>
