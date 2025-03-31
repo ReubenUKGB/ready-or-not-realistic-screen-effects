@@ -30,7 +30,9 @@ This mod adjusts certain elements in Ready or Not so that they're more realistic
 
 - Significantly reduces the duration of the white flash effect by explosions and the stun effect by explosions
 
-- Weapons are named according to their real world counterparts
+- Weapons names are accurate to real world counterparts
+  
+- Weapon descriptions are accurate to real world counterparts
 
 <br/>
 
