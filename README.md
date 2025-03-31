@@ -2,37 +2,35 @@ This mod adjusts certain elements in Ready or Not so that they're more realistic
 
 **What this mod does**
 
-- Disables bleeding or blood effects when hurt
-
-- Disables red colour fade effects when the player dies
-
-- Disables burn and chromatic abberation effects from Flashbangs
-
-- Disables flash and unsharpening effects when healing
-
-- Disables chromatic abberation effects when near death
-
-- Disables blur, unsharpening, blood, flash or tunnel vision effects when hit or being fired upon
-
-- Disables chromatic abberation or damage effects when Pepper sprayed
-
-- Disables the red hue effect from CS Gas
-
-- Disables blur, chromatic abberation and tunnel vision effects from Stinger Grenades
-
-- Disables chromatic abberation, blur, screen shaking and tunnel vision effects when suppressed
-
-- Disables field of view changes when moving, supressed, hit, firing a weapon and when any equipment is used
-
-- Disables vertical climb due to recoil when firing weapons
-
-- Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm
-
-- Significantly reduces the duration of the white flash effect by explosions and the stun effect by explosions
-
-- Weapon names are accurate to real world counterparts
+- Disables bleeding and blood screen effects when hurt
   
-- Weapon descriptions are accurate to real world counterparts
+- Disables red colour fade screen effects when the player dies
+  
+- Disables burn and chromatic abberation screen effects from Flashbangs
+  
+- Disables flash and unsharpening screen effects when healing
+  
+- Disables chromatic abberation screen effects when near death
+  
+- Disables blur, unsharpening, blood, flash or tunnel vision screen effects when hit or being fired upon
+  
+- Disables chromatic abberation or damage screen effects when Pepper sprayed
+  
+- Disables the red hue screen effect from CS Gas
+
+- Disables blur, chromatic abberation and tunnel vision screen effects from Stinger Grenades
+  
+- Disables chromatic abberation, blur, screen shaking and tunnel vision screen effects when suppressed
+  
+- Disables field of view changes when moving, supressed, hit, firing a weapon and when any equipment is used
+  
+- Disables vertical climb due to recoil when firing weapons
+  
+- Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm
+  
+- Significantly reduces the duration of the white flash effect by explosions and the stun effect by explosions
+  
+- Weapon names and descriptions are accurate to real world counterparts
 
 <br/>
 
