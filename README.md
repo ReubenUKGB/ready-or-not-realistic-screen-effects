@@ -1,6 +1,6 @@
 
 
-![realismornot](https://github.com/user-attachments/assets/c44bb05a-22b9-4992-98c9-a6198ca81a7d)
+![realismornot](https://github.com/user-attachments/assets/7e643674-02b5-47dd-af6f-990dd91ec7c6)
 
 This mod adjusts certain elements in Ready or Not so that they're more realistic.
 
