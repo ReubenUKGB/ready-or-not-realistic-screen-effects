@@ -48,6 +48,6 @@
 
 **A:** This mod will override any mod that modifies post-processing assets, camera assets, camera blueprints and weapon blueprints, depending on the load order.
 
-## NOTE
+## Note
 
 If you wish to edit and package these files manually you'll need [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS/tree/main) to generate `.usmap` mapping files for [UAssetGUI](https://github.com/atenfyr/UAssetGUI) to view the files properly  (you'll also need to convert the `.json` files to UAsset files using UAssetGUI before packaging) and [Unreal Engine 5.3](https://github.com/EpicGames/UnrealEngine/tree/5.3) to compress the files into `.pak` format via UnrealPak.
