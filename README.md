@@ -1,7 +1,5 @@
 ![realismornot](https://github.com/user-attachments/assets/b9e63a5b-80c0-4a21-b6ec-9f79a960227c)
 
-This mod adjusts certain elements in Ready or Not so that they're more realistic.
-
 ## What this mod does
 
 - Disables bleeding and blood screen effects when hurt
