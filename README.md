@@ -1,4 +1,4 @@
-![realismornot](https://github.com/user-attachments/assets/b9e63a5b-80c0-4a21-b6ec-9f79a960227c)
+![realismornot](https://github.com/user-attachments/assets/7931f61b-a035-4415-93f9-57979590fd3c)
 
 ## What this mod does
 
