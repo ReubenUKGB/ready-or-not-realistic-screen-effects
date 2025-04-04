@@ -1,8 +1,8 @@
-![realismornot](https://github.com/user-attachments/assets/b9e63a5b-80c0-4a21-b6ec-9f79a960227c)
+# Realism or Not
 
-This mod adjusts certain elements in Ready or Not so that they're more realistic.
+![realismornot](https://github.com/user-attachments/assets/7931f61b-a035-4415-93f9-57979590fd3c)
 
-**What this mod does**
+## What this mod does
 
 - Disables bleeding and blood screen effects when hurt
   
@@ -36,7 +36,7 @@ This mod adjusts certain elements in Ready or Not so that they're more realistic
 
 <br/>
 
-**F.A.Q**
+## F.A.Q
 
 **Q:** Does this mod affect in-game cosmetic unlocks and achievement unlocks?
 
@@ -50,6 +50,6 @@ This mod adjusts certain elements in Ready or Not so that they're more realistic
 
 **A:** This mod will override any mod that modifies post-processing assets, camera assets, camera blueprints and weapon blueprints, depending on the load order.
 
-**NOTE:**
-<br/>
-If you wish to edit and package these files manually you will need [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS/tree/main) to generate `.usmap` mapping files for [UAssetGUI](https://github.com/atenfyr/UAssetGUI) to view the files properly and [Unreal Engine 5.3](https://github.com/EpicGames/UnrealEngine/tree/5.3) to compress the files into `.pak` format via UnrealPak.
+## Note
+
+If you wish to edit and package these files manually you'll need [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS/tree/main) to generate `.usmap` mapping files for [UAssetGUI](https://github.com/atenfyr/UAssetGUI) to view the files properly  (you'll also need to convert the `.json` files to UAsset files using UAssetGUI before packaging) and [Unreal Engine 5.3](https://github.com/EpicGames/UnrealEngine/tree/5.3) to compress the files into `.pak` format via UnrealPak.
