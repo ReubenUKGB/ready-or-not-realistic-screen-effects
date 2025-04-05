@@ -2612,20 +2612,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -52,
-        -4
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-52, -4],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -2716,20 +2706,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -52,
-        -5
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-52, -5],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -2794,59 +2774,14 @@
       "bIsAsset": true,
       "GeneratePublicHash": false,
       "SerializationBeforeSerializationDependencies": [
-        -64,
-        -6,
-        -57,
-        -195,
-        -60,
-        -205,
-        -54,
-        -39,
-        -62,
-        -87,
-        -66,
-        -94,
-        -67,
-        -201,
-        -65,
-        -71,
-        -52,
-        -4,
-        -5,
-        -56,
-        -178,
-        -77,
-        -78,
-        -79,
-        -80,
-        -81,
-        -82,
-        -83,
-        -84,
-        -85,
-        -86,
-        -176,
-        -177,
-        -175,
-        -61,
-        -214,
-        -213,
-        -215,
-        -217,
-        -216,
-        -218,
-        -219,
-        17,
-        28
+        -64, -6, -57, -195, -60, -205, -54, -39, -62, -87, -66, -94, -67, -201,
+        -65, -71, -52, -4, -5, -56, -178, -77, -78, -79, -80, -81, -82, -83,
+        -84, -85, -86, -176, -177, -175, -61, -214, -213, -215, -217, -216,
+        -218, -219, 17, 28
       ],
       "CreateBeforeSerializationDependencies": [],
-      "SerializationBeforeCreateDependencies": [
-        -53,
-        -38
-      ],
-      "CreateBeforeCreateDependencies": [
-        -64
-      ],
+      "SerializationBeforeCreateDependencies": [-53, -38],
+      "CreateBeforeCreateDependencies": [-64],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -2898,21 +2833,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29,
-        -63
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -54,
-        -39
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29, -63],
+      "SerializationBeforeCreateDependencies": [-54, -39],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -2942,19 +2866,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -65,
-        -71
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6],
+      "SerializationBeforeCreateDependencies": [-65, -71],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -2992,20 +2907,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -62,
-        -77
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-62, -77],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3043,20 +2948,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -62,
-        -78
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-62, -78],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3094,20 +2989,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -62,
-        -79
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-62, -79],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3145,20 +3030,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -62,
-        -80
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-62, -80],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3196,20 +3071,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -62,
-        -81
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-62, -81],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3247,20 +3112,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -62,
-        -82
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-62, -82],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3298,20 +3153,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -62,
-        -83
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-62, -83],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3349,20 +3194,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -62,
-        -84
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-62, -84],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3400,20 +3235,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -62,
-        -85
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-62, -85],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3451,20 +3276,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -62,
-        -86
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-62, -86],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3502,20 +3317,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -62,
-        -87
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-62, -87],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3547,13 +3352,8 @@
       "GeneratePublicHash": false,
       "SerializationBeforeSerializationDependencies": [],
       "CreateBeforeSerializationDependencies": [],
-      "SerializationBeforeCreateDependencies": [
-        -55,
-        -93
-      ],
-      "CreateBeforeCreateDependencies": [
-        3
-      ],
+      "SerializationBeforeCreateDependencies": [-55, -93],
+      "CreateBeforeCreateDependencies": [3],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3591,20 +3391,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -66,
-        -94
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 29],
+      "SerializationBeforeCreateDependencies": [-66, -94],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3697,21 +3487,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        -171,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -56,
-        -175
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, -171, 29],
+      "SerializationBeforeCreateDependencies": [-56, -175],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3763,7 +3542,7 @@
               "IsZero": false,
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector, UAssetAPI",
-                "X": -1.7762478421445849E-07,
+                "X": -1.7762478421445849e-7,
                 "Y": 35.091129302978516,
                 "Z": 4.1799821853637695
               }
@@ -3834,21 +3613,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        -170,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -56,
-        -176
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, -170, 29],
+      "SerializationBeforeCreateDependencies": [-56, -176],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -3900,7 +3668,7 @@
               "IsZero": false,
               "Value": {
                 "$type": "UAssetAPI.UnrealTypes.FVector, UAssetAPI",
-                "X": -9.570374095346779E-05,
+                "X": -9.570374095346779e-5,
                 "Y": 36.35857009887695,
                 "Z": 4.24676513671875
               }
@@ -3994,21 +3762,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        -168,
-        29
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -56,
-        -177
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, -168, 29],
+      "SerializationBeforeCreateDependencies": [-56, -177],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -4071,21 +3828,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        -169,
-        2
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -56,
-        -178
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, -169, 2],
+      "SerializationBeforeCreateDependencies": [-56, -178],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -4168,7 +3914,7 @@
           "Name": "CartridgeText",
           "DuplicationIndex": 0,
           "IsZero": false,
-          "Value": "10mm"
+          "Value": "10mm Auto"
         },
         {
           "$type": "UAssetAPI.PropertyTypes.Objects.StrPropertyData, UAssetAPI",
@@ -5208,7 +4954,7 @@
         },
         {
           "$type": "UAssetAPI.PropertyTypes.Objects.FloatPropertyData, UAssetAPI",
-          "Value": 9.999999747378752E-05,
+          "Value": 9.999999747378752e-5,
           "Name": "FirstShotResetTime",
           "DuplicationIndex": 0,
           "IsZero": false
@@ -5876,7 +5622,7 @@
                   "Value": {
                     "$type": "UAssetAPI.UnrealTypes.FQuat, UAssetAPI",
                     "X": 0.004362999927252531,
-                    "Y": -1.8976523278979585E-05,
+                    "Y": -1.8976523278979585e-5,
                     "Z": -0.004362999927252531,
                     "W": 0.9999809265136719
                   }
@@ -6226,123 +5972,17 @@
       "GeneratePublicHash": false,
       "SerializationBeforeSerializationDependencies": [],
       "CreateBeforeSerializationDependencies": [
-        20,
-        21,
-        19,
-        -37,
-        -33,
-        -32,
-        -89,
-        31,
-        30,
-        32,
-        36,
-        -209,
-        -207,
-        -208,
-        34,
-        33,
-        35,
-        -223,
-        -224,
-        -90,
-        -91,
-        -220,
-        -68,
-        -225,
-        -69,
-        1,
-        2,
-        22,
-        6,
-        11,
-        7,
-        8,
-        9,
-        10,
-        12,
-        13,
-        14,
-        15,
-        -7,
-        -35,
-        -36,
-        -34,
-        -31,
-        -210,
-        -19,
-        -9,
-        -10,
-        -30,
-        -26,
-        -29,
-        -28,
-        -27,
-        -17,
-        -11,
-        -12,
-        -20,
-        -25,
-        -21,
-        -8,
-        -24,
-        -18,
-        -22,
-        -13,
-        -23,
-        -16,
-        -15,
-        -14,
-        -221,
-        -228,
-        -204,
-        -226,
-        -227,
-        -222,
-        24,
-        29,
-        4,
-        16,
-        18,
-        26,
-        5,
-        -88,
-        -180,
-        -229
+        20, 21, 19, -37, -33, -32, -89, 31, 30, 32, 36, -209, -207, -208, 34,
+        33, 35, -223, -224, -90, -91, -220, -68, -225, -69, 1, 2, 22, 6, 11, 7,
+        8, 9, 10, 12, 13, 14, 15, -7, -35, -36, -34, -31, -210, -19, -9, -10,
+        -30, -26, -29, -28, -27, -17, -11, -12, -20, -25, -21, -8, -24, -18,
+        -22, -13, -23, -16, -15, -14, -221, -228, -204, -226, -227, -222, 24,
+        29, 4, 16, 18, 26, 5, -88, -180, -229
       ],
       "SerializationBeforeCreateDependencies": [
-        3,
-        -6,
-        -195,
-        -205,
-        -39,
-        -87,
-        -94,
-        -201,
-        -71,
-        -4,
-        -5,
-        -178,
-        -77,
-        -78,
-        -79,
-        -80,
-        -81,
-        -82,
-        -83,
-        -84,
-        -85,
-        -86,
-        -176,
-        -177,
-        -175,
-        -214,
-        -213,
-        -215,
-        -217,
-        -216,
-        -218,
-        -219
+        3, -6, -195, -205, -39, -87, -94, -201, -71, -4, -5, -178, -77, -78,
+        -79, -80, -81, -82, -83, -84, -85, -86, -176, -177, -175, -214, -213,
+        -215, -217, -216, -218, -219
       ],
       "CreateBeforeCreateDependencies": [],
       "PublicExportHash": 0,
@@ -6374,19 +6014,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -57,
-        -195
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6],
+      "SerializationBeforeCreateDependencies": [-57, -195],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -6416,17 +6047,10 @@
       "bNotAlwaysLoadedForEditorGame": false,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        3
-      ],
+      "SerializationBeforeSerializationDependencies": [3],
       "CreateBeforeSerializationDependencies": [],
-      "SerializationBeforeCreateDependencies": [
-        -57,
-        -194
-      ],
-      "CreateBeforeCreateDependencies": [
-        3
-      ],
+      "SerializationBeforeCreateDependencies": [-57, -194],
+      "CreateBeforeCreateDependencies": [3],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -6475,20 +6099,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        -70
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -67,
-        -201
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, -70],
+      "SerializationBeforeCreateDependencies": [-67, -201],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -6559,17 +6173,9 @@
       "bIsAsset": false,
       "GeneratePublicHash": false,
       "SerializationBeforeSerializationDependencies": [],
-      "CreateBeforeSerializationDependencies": [
-        25,
-        -57
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -58,
-        -202
-      ],
-      "CreateBeforeCreateDependencies": [
-        28
-      ],
+      "CreateBeforeSerializationDependencies": [25, -57],
+      "SerializationBeforeCreateDependencies": [-58, -202],
+      "CreateBeforeCreateDependencies": [28],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -6608,16 +6214,9 @@
       "bIsAsset": false,
       "GeneratePublicHash": false,
       "SerializationBeforeSerializationDependencies": [],
-      "CreateBeforeSerializationDependencies": [
-        27
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -59,
-        -203
-      ],
-      "CreateBeforeCreateDependencies": [
-        3
-      ],
+      "CreateBeforeSerializationDependencies": [27],
+      "SerializationBeforeCreateDependencies": [-59, -203],
+      "CreateBeforeCreateDependencies": [3],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -6707,22 +6306,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        -1,
-        -204,
-        24
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -60,
-        -205
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, -1, -204, 24],
+      "SerializationBeforeCreateDependencies": [-60, -205],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -6760,20 +6347,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        24
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -61,
-        -213
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 24],
+      "SerializationBeforeCreateDependencies": [-61, -213],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -6811,20 +6388,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        24
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -61,
-        -214
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 24],
+      "SerializationBeforeCreateDependencies": [-61, -214],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -6862,20 +6429,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        24
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -61,
-        -215
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 24],
+      "SerializationBeforeCreateDependencies": [-61, -215],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -6913,20 +6470,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        24
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -61,
-        -216
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 24],
+      "SerializationBeforeCreateDependencies": [-61, -216],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -6964,20 +6511,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        24
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -61,
-        -217
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 24],
+      "SerializationBeforeCreateDependencies": [-61, -217],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -7015,20 +6552,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        24
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -61,
-        -218
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 24],
+      "SerializationBeforeCreateDependencies": [-61, -218],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
@@ -7066,20 +6593,10 @@
       "bNotAlwaysLoadedForEditorGame": true,
       "bIsAsset": false,
       "GeneratePublicHash": false,
-      "SerializationBeforeSerializationDependencies": [
-        23
-      ],
-      "CreateBeforeSerializationDependencies": [
-        -6,
-        24
-      ],
-      "SerializationBeforeCreateDependencies": [
-        -61,
-        -219
-      ],
-      "CreateBeforeCreateDependencies": [
-        23
-      ],
+      "SerializationBeforeSerializationDependencies": [23],
+      "CreateBeforeSerializationDependencies": [-6, 24],
+      "SerializationBeforeCreateDependencies": [-61, -219],
+      "CreateBeforeCreateDependencies": [23],
       "PublicExportHash": 0,
       "Padding": null,
       "Extras": {
