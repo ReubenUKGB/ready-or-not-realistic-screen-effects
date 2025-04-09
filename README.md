@@ -27,6 +27,8 @@
 - Disables field of view changes when moving, supressed, hit, firing a weapon and when any equipment is used
   
 - Disables vertical climb due to recoil when firing weapons
+
+- Disables non-essential gameplay UI (health indicator, select fire, item hotbar and team status)
   
 - Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm
   
