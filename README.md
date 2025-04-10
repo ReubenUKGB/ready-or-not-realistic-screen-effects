@@ -50,7 +50,7 @@
 
 **Q:** Is this mod compatible with other mods?
 
-**A:** This mod will override any mod that modifies post-processing assets, camera assets, camera blueprints and weapon blueprints, depending on the load order.
+**A:** This mod will override any mod that modifies post-processing assets, camera assets, camera blueprints, weapon blueprints and widget blueprints, depending on the load order.
 
 ## Note
 
