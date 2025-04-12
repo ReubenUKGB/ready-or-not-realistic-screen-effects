@@ -29,7 +29,7 @@
   
 - Disables vertical climb due to recoil when firing weapons
 
-- Disables non-essential HUD UI (health indicator, compass, select fire, item hotbar and team status)
+- Disables non-essential HUD UI (health indicator, compass, select fire, item hotbar, plate carrier magazine status and team status)
   
 - Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm
   
