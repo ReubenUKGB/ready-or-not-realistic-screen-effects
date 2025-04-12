@@ -1,6 +1,7 @@
 # Realism or Not
 
-![realismornot](https://github.com/user-attachments/assets/7931f61b-a035-4415-93f9-57979590fd3c)
+![backgroundv3](https://github.com/user-attachments/assets/cce4e029-87ce-4660-a434-523d93eff9f2)
+
 
 ## What this mod does
 
@@ -28,7 +29,7 @@
   
 - Disables vertical climb due to recoil when firing weapons
 
-- Disables non-essential gameplay UI (health indicator, select fire, item hotbar and team status)
+- Disables non-essential HUD UI (health indicator, compass, select fire, item hotbar and team status)
   
 - Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm
   
