@@ -5,37 +5,37 @@
 
 ## What this mod does
 
-- Disables bleeding and blood screen effects when hurt
+- Disables bleeding and blood screen effects when hurt.
   
-- Disables red colour fade screen effects when the player dies
+- Disables red colour fade screen effects when the player dies.
   
-- Disables burn and chromatic abberation screen effects from Flashbangs
+- Disables burn and chromatic abberation screen effects from Flashbangs.
   
-- Disables flash and unsharpening screen effects when healing
+- Disables flash and unsharpening screen effects when healing.
   
-- Disables chromatic abberation screen effects when near death
+- Disables chromatic abberation screen effects when near death.
   
-- Disables blur, unsharpening, blood, flash or tunnel vision screen effects when hit or being fired upon
+- Disables blur, unsharpening, blood, flash or tunnel vision screen effects when hit or being fired upon.
   
-- Disables chromatic abberation or damage screen effects when Pepper sprayed
+- Disables chromatic abberation or damage screen effects when Pepper sprayed.
   
-- Disables the red hue screen effect from CS Gas
+- Disables the red hue screen effect from CS Gas.
 
-- Disables blur, chromatic abberation and tunnel vision screen effects from Stinger Grenades
+- Disables blur, chromatic abberation and tunnel vision screen effects from Stinger Grenades.
   
-- Disables chromatic abberation, blur, screen shaking and tunnel vision screen effects when suppressed
+- Disables chromatic abberation, blur, screen shaking and tunnel vision screen effects when suppressed.
   
-- Disables field of view changes when moving, supressed, hit, firing a weapon and when any equipment is used
+- Disables field of view changes when moving, supressed, hit, firing a weapon and when any equipment is used.
   
-- Disables vertical climb due to recoil when firing weapons
+- Disables vertical climb due to recoil when firing weapons.
 
-- Disables non-essential HUD UI (health indicator, compass, select fire, item hotbar, plate carrier magazine status and team status)
+- Disables non-essential HUD UI (health indicator, compass, select fire, item hotbar, plate carrier magazine status and team status).
   
-- Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm
+- Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm.
   
-- Significantly reduces the duration of the white flash effect by explosions and the stun effect by explosions
+- Significantly reduces the duration of the white flash effect by explosions and the stun effect by explosions.
   
-- Weapon names and descriptions are accurate to real world counterparts
+- Weapon names and descriptions are accurate to real world counterparts.
 
 <br/>
 
@@ -43,11 +43,11 @@
 
 **Q:** Does this mod affect in-game cosmetic unlocks and achievement unlocks?
 
-**A:** No, it only affects your highscore from being recorded whilst the mod is installed.
+**A:** It only affects your highscore from being recorded whilst the mod is installed.
 
 **Q:** Is this a singleplayer-only mod?
 
-**A:** No, you can use it in multiplayer but you need to disable the "server-side checksum" setting in the gameplay options menu for the mod to work.
+**A:** You can use it in multiplayer but you need to disable the "server-side checksum" setting in the gameplay options menu for the mod to work.
 
 **Q:** Is this mod compatible with other mods?
 
