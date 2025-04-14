@@ -5,37 +5,37 @@
 
 ## What this mod does
 
-- Disables bleeding and blood screen effects when hurt.
+* Disables bleeding and blood screen effects when hurt.
   
-- Disables red colour fade screen effects when the player dies.
+* Disables red colour fade screen effects when the player dies.
   
-- Disables burn and chromatic abberation screen effects from Flashbangs.
+* Disables burn and chromatic abberation screen effects from Flashbangs.
   
-- Disables flash and unsharpening screen effects when healing.
+* Disables flash and unsharpening screen effects when healing.
   
-- Disables chromatic abberation screen effects when near death.
+* Disables chromatic abberation screen effects when near death.
   
-- Disables blur, unsharpening, blood, flash or tunnel vision screen effects when hit or being fired upon.
+* Disables blur, unsharpening, blood, flash or tunnel vision screen effects when hit or being fired upon.
   
-- Disables chromatic abberation or damage screen effects when Pepper sprayed.
+* Disables chromatic abberation or damage screen effects when Pepper sprayed.
   
-- Disables the red hue screen effect from CS Gas.
+* Disables the red hue screen effect from CS Gas.
 
-- Disables blur, chromatic abberation and tunnel vision screen effects from Stinger Grenades.
+* Disables blur, chromatic abberation and tunnel vision screen effects from Stinger Grenades.
   
-- Disables chromatic abberation, blur, screen shaking and tunnel vision screen effects when suppressed.
+* Disables chromatic abberation, blur, screen shaking and tunnel vision screen effects when suppressed.
   
-- Disables field of view changes when moving, supressed, hit, firing a weapon and when any equipment is used.
+* Disables field of view changes when moving, supressed, hit, firing a weapon and when any equipment is used.
   
-- Disables vertical climb due to recoil when firing weapons.
+* Disables vertical climb due to recoil when firing weapons.
 
-- Disables non-essential HUD UI (health indicator, compass, select fire, item hotbar, plate carrier magazine status and team status).
+* Disables non-essential HUD UI (health indicator, compass, select fire, item hotbar, plate carrier magazine status and team status).
   
-- Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm.
+* Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm.
   
-- Significantly reduces the duration of the white flash effect by explosions and the stun effect by explosions.
+* Significantly reduces the duration of the white flash effect by explosions and the stun effect by explosions.
   
-- Weapon names and descriptions are accurate to real world counterparts.
+* Weapon names and descriptions are accurate to real world counterparts.
 
 <br/>
 
@@ -53,6 +53,8 @@
 
 **A:** This mod will override any mod that modifies post-processing assets, camera assets, camera blueprints, weapon blueprints and widget blueprints, depending on the load order.
 
+Find any bugs, problems or suggestions? Please feel free to submit an issue or start a discussion.
+
 ## Note
 
-If you wish to edit and package these files manually you'll need [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS/tree/main) to generate `.usmap` mapping files for [UAssetGUI](https://github.com/atenfyr/UAssetGUI) to view the files properly  (you'll also need to convert the `.json` files to UAsset files using UAssetGUI before packaging) and [Unreal Engine 5.3](https://github.com/EpicGames/UnrealEngine/tree/5.3) to compress the files into `.pak` format via UnrealPak.
+If you wish to edit and package these files manually you'll need [UE4SS](https://github.com/UE4SS-RE/RE-UE4SS/tree/main) to generate `.usmap` mapping files for [UAssetGUI](https://github.com/atenfyr/UAssetGUI) to view the files properly and [Unreal Engine 5.3](https://github.com/EpicGames/UnrealEngine/tree/5.3) to compress the files into `.pak` format via UnrealPak.
