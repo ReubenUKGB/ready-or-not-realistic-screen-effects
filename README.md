@@ -30,6 +30,8 @@
 * Disables vertical climb due to recoil when firing weapons.
 
 * Disables non-essential HUD UI (health indicator, compass, select fire, item hotbar, plate carrier magazine status and team status).
+
+* Reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm.
   
 * Reduces the duration of the white flash effect by flashbangs.
   
