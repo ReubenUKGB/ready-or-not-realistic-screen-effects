@@ -31,9 +31,9 @@
 
 * Disables non-essential HUD UI (health indicator, compass, select fire, item hotbar, plate carrier magazine status and team status).
   
-* Significantly reduces screen shaking effects when hit by bullets, in proximity to explosions and when discharging a firearm.
+* Reduces the duration of the white flash effect by flashbangs.
   
-* Significantly reduces the duration of the white flash effect by explosions and the stun effect by explosions.
+* Reduces time stunned by explosions.
   
 * Weapon names and descriptions are accurate to real world counterparts.
 
